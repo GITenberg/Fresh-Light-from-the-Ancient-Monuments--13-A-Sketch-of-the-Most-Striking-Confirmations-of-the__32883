@@ -1,0 +1,34 @@
+_repo: Fresh-Light-from-the-Ancient-Monuments--13-A-Sketch-of-the-Most-Striking-Confirmations-of-the__32883
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sayce, A. H. (Archibald Henry)
+    aliases:
+    - Sayce, A.H.
+    - Sayce, Archibald Henry
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4759'
+    url: http://www.gutenberg.org/2009/agents/4759
+    wikipedia: http://en.wikipedia.org/wiki/Archibald_Sayce
+description: ''
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32883'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Evidences, authority, etc.'
+- !lcsh 'Cuneiform inscriptions'
+- !lcc 'BS'
+- !lcsh 'Bible -- Antiquities'
+title: "Fresh Light from the Ancient Monuments\r\nA Sketch of the Most Striking Confirmations\
+  \ of the Bible, From Recent Discoveries in Egypt, Palestine, Assyria, Babylonia,\
+  \ Asia Minor"
+url: http://www.gutenberg.org/ebooks/32883
